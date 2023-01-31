@@ -2,9 +2,9 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Stars {
+  display: flex;
+  list-style-type: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
